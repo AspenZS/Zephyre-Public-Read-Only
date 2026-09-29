@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="index,follow">
+    <title>Live Zephyre Systems public status</title>
+  </head>
+  <body>
+    <main>
+      <h1>Live Zephyre Systems public status</h1>
+      <p id="source">Loading the canonical public status endpoint…</p>
+      <pre id="status" aria-live="polite"></pre>
+    </main>
+    <script>
+      const canonical = 'https://zephyresystems.com/status.json';
+      const source = document.querySelector('#source');
+      const output = document.querySelector('#status');
+
+      fetch(`${canonical}?request=${Date.now()}`, { cache: 'no-store' })
+        .then((response) => {
+          if (!response.ok) throw new Error(`Canonical endpoint returned HTTP ${response.status}`);
+          return response.json();
+        })
+        .then((status) => {
+          source.textContent = `Live data from ${canonical}; generated ${status.generatedAt}`;
+          output.textContent = JSON.stringify(status, null, 2);
+        })
+        .catch((error) => {
+          source.textContent = 'The live canonical endpoint could not be loaded.';
+          output.textContent = error instanceof Error ? error.message : String(error);
+        });
+    </script>
+  </body>
+</html>
