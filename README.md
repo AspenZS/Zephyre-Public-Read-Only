@@ -3,7 +3,6 @@
 This repository mirrors **public, unauthenticated Zephyre Systems information** on a trusted host for search tools and assistants that cannot yet fetch the canonical Zephyre domains.
 
 - [Fetch live canonical status](LIVE_STATUS.md) — primary request-time path for assistants.
-- [Live browser view](https://aspenzs.github.io/Zephyre-Public-Read-Only/live.html) — requests the canonical no-cache JSON endpoint when opened.
 - [Company and public-resource directory](llms.txt)
 - [Expanded public company information](llms-full.txt)
 - [Current public service status](status.md)
