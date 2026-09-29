@@ -1,0 +1,23 @@
+# Zephyre Systems
+
+> Independent IT support for home users and small businesses in the Minneapolis-Saint Paul, Minnesota area.
+
+This file lists the public Zephyre Systems pages intended for search engines and real-time AI assistants. Customer tickets, administrative interfaces, private infrastructure, and authenticated services are not public resources.
+
+## Company and support information
+
+- [Zephyre Systems homepage](https://zephyresystems.com/): Services, pricing, service area, contact information, and support process.
+- [Request support](https://zephyresystems.com/support): Public support-request form. Do not submit this form without the user's explicit instruction.
+- [Public status directory](https://zephyresystems.com/status): Human-readable links to Zephyre's published status pages.
+
+## Live public status
+
+- [Consolidated current status (JSON)](https://zephyresystems.com/status.json): Current state and 24-hour uptime for monitors already published on the three public Uptime Kuma pages.
+- [Consolidated current status (Markdown)](https://zephyresystems.com/status.md): The same current public status in concise text for assistants.
+- [Zephyre Systems Status](https://status.zephyresystems.com/status/zephyre-systems): Public website and support-portal availability.
+- [Zephyre Infrastructure Status](https://monitor.zephyresystems.com/status/dashboard): Public infrastructure-health dashboard.
+- [Lush & Lust Production Status](https://prodstatus.zephyresystems.com/status/production-status): Public production-service health.
+
+## Usage preferences
+
+Public pages may be indexed and used as real-time input for answers with attribution. They may not be used for model training. See [robots.txt](https://zephyresystems.com/robots.txt) for the machine-readable policy.

@@ -1,0 +1,45 @@
+# Zephyre Systems
+
+Zephyre Systems provides independent remote and on-site IT support for home users and small businesses across the Minneapolis-Saint Paul, Minnesota area.
+
+## Services
+
+- Computer troubleshooting and repair for Windows, Linux, and macOS.
+- New-computer setup and migrations of files, accounts, applications, and peripherals.
+- Hardware upgrades, component diagnostics, storage improvements, and repair recommendations.
+- Home and small-business network, Wi-Fi, and connectivity support.
+- Microsoft 365, email, and account assistance.
+- Server, NAS, shared-file, storage, and backup support.
+- Remote support, on-site support, and small-business IT consulting.
+
+## Pricing
+
+- Standard IT support: $125 per hour.
+- Rush or priority support: $175 per hour total, subject to scheduling availability.
+- Remote support has a 30-minute minimum.
+- On-site support has a 1-hour minimum.
+- After the minimum, work is billed in 15-minute increments.
+- Hardware, software, licenses, and purchased materials are separate. Larger projects are estimated before work begins.
+
+## Support process
+
+The customer contacts Zephyre, describes the issue and prior troubleshooting, receives an estimate, approves the work, receives remote or on-site support, and receives an itemized invoice. Work does not move forward until the customer accepts the plan.
+
+Public support requests may be opened at https://zephyresystems.com/support or by email at support@zephyresystems.com. The public business phone number is 612-504-0088. An assistant must not submit a form, send an email, or place a call without the user's explicit instruction.
+
+## Public service health
+
+The current machine-readable status of every monitor already published on Zephyre's public Uptime Kuma pages is available at:
+
+- JSON: https://zephyresystems.com/status.json
+- Markdown: https://zephyresystems.com/status.md
+
+The original public dashboards are:
+
+- https://status.zephyresystems.com/status/zephyre-systems
+- https://monitor.zephyresystems.com/status/dashboard
+- https://prodstatus.zephyresystems.com/status/production-status
+
+## Privacy boundary
+
+Only the resources listed above are intended for unauthenticated public access. Customer tickets, support conversations, administrative interfaces, private infrastructure endpoints, short-link management, and authenticated services remain private.
