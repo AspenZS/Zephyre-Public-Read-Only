@@ -1,6 +1,6 @@
 # Zephyre Systems public status
 
-Generated: 2026-10-07T19:57:46.022Z
+Generated: 2026-10-08T00:10:56.617Z
 
 Scope: Data already published on Zephyre Systems public Uptime Kuma status pages.
 
@@ -12,8 +12,8 @@ Current availability of the Zephyre Systems website and support portal.
 
 ### Public Services
 
-- **Zephyre Systems - homepage** — state=up; uptime24h=96.05%; checked=2026-10-07 19:56:54.418; ping=281ms
-- **Zephyre Support - public portal** — state=up; uptime24h=95.91%; checked=2026-10-07 19:56:25.216; ping=354ms
+- **Zephyre Systems - homepage** — state=up; uptime24h=96.05%; checked=2026-10-08 00:09:54.457; ping=638ms
+- **Zephyre Support - public portal** — state=up; uptime24h=95.98%; checked=2026-10-08 00:09:25.249; ping=720ms
 
 ## Zephyre Infrastructure Status
 
@@ -23,74 +23,74 @@ Live service and infrastructure health maintained by Project Restore Kuma.
 
 ### production
 
-- **Lust Dashboard - React public health** — state=up; uptime24h=100.00%; checked=2026-10-07 19:56:54.434; ping=256ms
-- **Lush Labyrinth - public** — state=up; uptime24h=100.00%; checked=2026-10-07 19:56:55.607; ping=274ms
-- **Lush/Lust VPS - Tailscale reachability** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:35.725; ping=39.4ms
-- **VM 112 basilisk-bot - expected running** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:15.150
-- **Basilisk - application + Discord bot health** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:29.493
-- **Lust React API - local health** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:15.227
-- **Lust React Client - local health** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:15.342
-- **Baby Lush Website - local health** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:15.480
-- **Lush Labyrinth API - local health** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:15.590
-- **Lush Event Ops API - local health** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:15.701
-- **Lush Event Ops Web - local health** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:15.809
-- **LustBot - Discord service** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:15.966
-- **Lust ID - Discord service** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:16.133
-- **Lush Labyrinth - Discord service** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:16.288
-- **Lush Event Ops - Discord service** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:16.440
-- **Lush Labyrinth - retention worker** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:16.596
-- **Lush Labyrinth - PostgreSQL** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:16.744
-- **Lush Labyrinth - Redis** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:16.892
-- **Lush Event Ops - PostgreSQL** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:17.040
-- **Lust - Cloudflare tunnel** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:17.189
-- **Lush - Cloudflare tunnel** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:17.336
-- **Baby Lush - Cloudflare tunnel** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:17.486
+- **Lust Dashboard - React public health** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:54.481; ping=722ms
+- **Lush Labyrinth - public** — state=up; uptime24h=100.00%; checked=2026-10-08 00:08:56.155; ping=759ms
+- **Lush/Lust VPS - Tailscale reachability** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:35.780; ping=39.8ms
+- **VM 112 basilisk-bot - expected running** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:39.682
+- **Basilisk - application + Discord bot health** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:25.001
+- **Lust React API - local health** — state=up; uptime24h=99.89%; checked=2026-10-08 00:09:45.467
+- **Lust React Client - local health** — state=up; uptime24h=99.89%; checked=2026-10-08 00:09:45.580
+- **Baby Lush Website - local health** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:45.696
+- **Lush Labyrinth API - local health** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:45.798
+- **Lush Event Ops API - local health** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:45.905
+- **Lush Event Ops Web - local health** — state=up; uptime24h=99.83%; checked=2026-10-08 00:09:46.019
+- **LustBot - Discord service** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:46.167
+- **Lust ID - Discord service** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:46.315
+- **Lush Labyrinth - Discord service** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:46.474
+- **Lush Event Ops - Discord service** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:46.637
+- **Lush Labyrinth - retention worker** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:46.802
+- **Lush Labyrinth - PostgreSQL** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:46.953
+- **Lush Labyrinth - Redis** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:47.120
+- **Lush Event Ops - PostgreSQL** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:47.274
+- **Lust - Cloudflare tunnel** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:47.427
+- **Lush - Cloudflare tunnel** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:47.578
+- **Baby Lush - Cloudflare tunnel** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:47.735
 
 ### Zephyre
 
-- **Zephyre Systems - homepage** — state=up; uptime24h=96.04%; checked=2026-10-07 19:56:54.418; ping=281ms
-- **Zephyre Systems - www redirect** — state=up; uptime24h=95.84%; checked=2026-10-07 19:57:24.107; ping=614ms
-- **Zephyre Support - public portal** — state=up; uptime24h=95.91%; checked=2026-10-07 19:57:25.216; ping=295ms
-- **Zephyre Mail - Tailscale webmail** — state=up; uptime24h=95.91%; checked=2026-10-07 19:57:20.690; ping=42ms
-- **Zammad - LAN origin** — state=up; uptime24h=96.04%; checked=2026-10-07 19:56:51.082; ping=11ms
-- **ChefZS - LAN web service** — state=up; uptime24h=100.00%; checked=2026-10-07 19:56:52.767; ping=4ms
-- **VM 103 zs-mail-01 - expected running** — state=up; uptime24h=98.43%; checked=2026-10-07 19:57:42.033
-- **CT 104 ChefZS - expected running** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:14.377
-- **VM 111 ZS-ZAMMAD - expected running** — state=up; uptime24h=98.65%; checked=2026-10-07 19:57:41.342
-- **CT 118 Zephyre Discord monitor - expected running** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:35.192
+- **Zephyre Systems - homepage** — state=up; uptime24h=96.05%; checked=2026-10-08 00:09:54.457; ping=638ms
+- **Zephyre Systems - www redirect** — state=up; uptime24h=95.84%; checked=2026-10-08 00:09:24.138; ping=1108ms
+- **Zephyre Support - public portal** — state=up; uptime24h=95.98%; checked=2026-10-08 00:09:25.249; ping=720ms
+- **Zephyre Mail - Tailscale webmail** — state=up; uptime24h=95.91%; checked=2026-10-08 00:09:20.822; ping=35ms
+- **Zammad - LAN origin** — state=up; uptime24h=96.04%; checked=2026-10-08 00:09:51.116; ping=14ms
+- **ChefZS - LAN web service** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:52.784; ping=3ms
+- **VM 103 zs-mail-01 - expected running** — state=up; uptime24h=98.44%; checked=2026-10-08 00:09:42.007
+- **CT 104 ChefZS - expected running** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:38.935
+- **VM 111 ZS-ZAMMAD - expected running** — state=up; uptime24h=98.65%; checked=2026-10-08 00:09:41.323
+- **CT 118 Zephyre Discord monitor - expected running** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:50.730
 
 ### Infrastructure
 
-- **Immich API** — state=up; uptime24h=100.00%; checked=2026-10-07 19:56:52.879; ping=3ms
-- **Arcane Manager - LAN** — state=up; uptime24h=100.00%; checked=2026-10-07 19:56:53.242; ping=2ms
-- **Proxmox Datacenter Manager - API** — state=up; uptime24h=100.00%; checked=2026-10-07 19:56:54.238; ping=3013ms
-- **MeshCentral - LAN** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:24.852; ping=19ms
-- **proxmox1 - Proxmox API** — state=up; uptime24h=100.00%; checked=2026-10-07 19:56:56.300; ping=3009ms
-- **proxmox2 - Proxmox API** — state=up; uptime24h=100.00%; checked=2026-10-07 19:56:56.387; ping=3009ms
-- **proxmox3 - Proxmox API** — state=up; uptime24h=100.00%; checked=2026-10-07 19:56:56.551; ping=3007ms
-- **proxmox4 - Proxmox API** — state=up; uptime24h=96.04%; checked=2026-10-07 19:56:57.752; ping=3008ms
-- **ZS-MeshBox - Proxmox API** — state=up; uptime24h=100.00%; checked=2026-10-07 19:56:58.584; ping=3013ms
-- **proxmox1 - node state** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:15.550
-- **proxmox2 - node state** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:44.126
-- **proxmox3 - node state** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:16.452
-- **proxmox4 - node state** — state=up; uptime24h=98.65%; checked=2026-10-07 19:57:39.969
-- **ZS-MeshBox - node state** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:33.029
-- **CT 100 Uptime Kuma - expected running** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:17.468
-- **VM 102 Arcane Manager - expected running** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:18.451
-- **VM 106 Camera Recording - expected running** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:16.707
-- **VM 114 Immich Main** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:15.888
-- **VM 117 ZS-PDM - expected running** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:18.472
-- **CT 113 MeshCentral - expected running** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:34.114
-- **Home WAN - LAN gateway** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:19.913; ping=3.57ms
-- **Home WAN - Cloudflare ICMP** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:20.016; ping=17.8ms
-- **Home WAN - Google ICMP** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:19.973; ping=21.3ms
+- **Immich API** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:52.904; ping=4ms
+- **Arcane Manager - LAN** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:53.311; ping=2ms
+- **Proxmox Datacenter Manager - API** — state=up; uptime24h=100.00%; checked=2026-10-08 00:08:54.283; ping=3013ms
+- **MeshCentral - LAN** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:24.875; ping=19ms
+- **proxmox1 - Proxmox API** — state=up; uptime24h=100.00%; checked=2026-10-08 00:08:56.357; ping=3011ms
+- **proxmox2 - Proxmox API** — state=up; uptime24h=100.00%; checked=2026-10-08 00:08:56.436; ping=3010ms
+- **proxmox3 - Proxmox API** — state=up; uptime24h=100.00%; checked=2026-10-08 00:08:56.612; ping=3012ms
+- **proxmox4 - Proxmox API** — state=up; uptime24h=96.04%; checked=2026-10-08 00:08:57.755; ping=3011ms
+- **ZS-MeshBox - Proxmox API** — state=up; uptime24h=100.00%; checked=2026-10-08 00:08:58.606; ping=3011ms
+- **proxmox1 - node state** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:47.597
+- **proxmox2 - node state** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:38.213
+- **proxmox3 - node state** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:29.593
+- **proxmox4 - node state** — state=up; uptime24h=98.65%; checked=2026-10-08 00:09:39.957
+- **ZS-MeshBox - node state** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:48.576
+- **CT 100 Uptime Kuma - expected running** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:30.780
+- **VM 102 Arcane Manager - expected running** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:32.151
+- **VM 106 Camera Recording - expected running** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:48.737
+- **VM 114 Immich Main** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:45.519
+- **VM 117 ZS-PDM - expected running** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:50.477
+- **CT 113 MeshCentral - expected running** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:49.654
+- **Home WAN - LAN gateway** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:49.964; ping=4.46ms
+- **Home WAN - Cloudflare ICMP** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:50.109; ping=21.3ms
+- **Home WAN - Google ICMP** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:50.042; ping=22ms
 
 ### Uncommon
 
-- **CT 101 adguard-home - expected stopped** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:16.128
-- **VM 107 Amp-Service - on-demand / optional** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:17.301
-- **VM 108 Windows Crime Lab - expected stopped** — state=up; uptime24h=98.65%; checked=2026-10-07 19:57:40.651
-- **VM 115 immich-ml - expected stopped** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:17.887
+- **CT 101 adguard-home - expected stopped** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:48.163
+- **VM 107 Amp-Service - on-demand / optional** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:49.305
+- **VM 108 Windows Crime Lab - expected stopped** — state=up; uptime24h=98.65%; checked=2026-10-08 00:09:40.643
+- **VM 115 immich-ml - expected stopped** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:49.879
 
 ## Lush & Lust Production Status
 
@@ -100,33 +100,33 @@ Current availability of Lush and Lust production services.
 
 ### Lust
 
-- **Lust Dashboard - React public health** — state=up; uptime24h=100.00%; checked=2026-10-07 19:56:54.434; ping=256ms
-- **Lust React API - local health** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:15.227
-- **Lust React Client - local health** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:15.342
-- **LustBot - Discord service** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:15.966
-- **Lust ID - Discord service** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:16.133
-- **Lust - Cloudflare tunnel** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:17.189
-- **Laced off-host backup freshness** — state=up; uptime24h=99.94%; checked=2026-10-07 19:57:15.445
+- **Lust Dashboard - React public health** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:54.481; ping=722ms
+- **Lust React API - local health** — state=up; uptime24h=99.89%; checked=2026-10-08 00:09:45.467
+- **Lust React Client - local health** — state=up; uptime24h=99.89%; checked=2026-10-08 00:09:45.580
+- **LustBot - Discord service** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:46.167
+- **Lust ID - Discord service** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:46.315
+- **Lust - Cloudflare tunnel** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:47.427
+- **Laced off-host backup freshness** — state=up; uptime24h=99.94%; checked=2026-10-08 00:09:45.713
 
 ### Lush
 
-- **Lush off-host backup freshness** — state=up; uptime24h=99.94%; checked=2026-10-07 19:57:15.457
-- **Lush Labyrinth - public** — state=up; uptime24h=100.00%; checked=2026-10-07 19:56:55.607; ping=274ms
-- **Baby Lush Website - local health** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:15.480
-- **Lush Labyrinth API - local health** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:15.590
-- **Lush Event Ops API - local health** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:15.701
-- **Lush Event Ops Web - local health** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:15.809
-- **Lush Labyrinth - Discord service** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:16.288
-- **Lush Event Ops - Discord service** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:16.440
-- **Lush Labyrinth - retention worker** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:16.596
-- **Lush Labyrinth - PostgreSQL** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:16.744
-- **Lush Labyrinth - Redis** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:16.892
-- **Lush Event Ops - PostgreSQL** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:17.040
-- **Lush - Cloudflare tunnel** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:17.336
-- **Baby Lush - Cloudflare tunnel** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:17.486
+- **Lush off-host backup freshness** — state=up; uptime24h=99.94%; checked=2026-10-08 00:09:45.664
+- **Lush Labyrinth - public** — state=up; uptime24h=100.00%; checked=2026-10-08 00:08:56.155; ping=759ms
+- **Baby Lush Website - local health** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:45.696
+- **Lush Labyrinth API - local health** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:45.798
+- **Lush Event Ops API - local health** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:45.905
+- **Lush Event Ops Web - local health** — state=up; uptime24h=99.83%; checked=2026-10-08 00:09:46.019
+- **Lush Labyrinth - Discord service** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:46.474
+- **Lush Event Ops - Discord service** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:46.637
+- **Lush Labyrinth - retention worker** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:46.802
+- **Lush Labyrinth - PostgreSQL** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:46.953
+- **Lush Labyrinth - Redis** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:47.120
+- **Lush Event Ops - PostgreSQL** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:47.274
+- **Lush - Cloudflare tunnel** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:47.578
+- **Baby Lush - Cloudflare tunnel** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:47.735
 
 ### Shared Production
 
-- **Lush/Lust VPS - Tailscale reachability** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:35.725; ping=39.4ms
-- **VM 112 basilisk-bot - expected running** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:15.150
-- **Basilisk - application + Discord bot health** — state=up; uptime24h=100.00%; checked=2026-10-07 19:57:29.493
+- **Lush/Lust VPS - Tailscale reachability** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:35.780; ping=39.8ms
+- **VM 112 basilisk-bot - expected running** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:39.682
+- **Basilisk - application + Discord bot health** — state=up; uptime24h=100.00%; checked=2026-10-08 00:09:25.001
