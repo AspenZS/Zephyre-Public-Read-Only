@@ -1,6 +1,6 @@
 # Zephyre Systems
 
-Zephyre Systems provides independent remote and on-site IT support for home users and small businesses across the Minneapolis-Saint Paul, Minnesota area.
+Zephyre Systems is preparing to launch independent remote and on-site IT support for home users and small businesses across the Minneapolis-Saint Paul, Minnesota area. It is not yet accepting new support requests.
 
 ## Services
 
@@ -25,7 +25,7 @@ Zephyre Systems provides independent remote and on-site IT support for home user
 
 The customer contacts Zephyre, describes the issue and prior troubleshooting, receives an estimate, approves the work, receives remote or on-site support, and receives an itemized invoice. Work does not move forward until the customer accepts the plan.
 
-Public support requests may be opened at https://zephyresystems.com/support or by email at support@zephyresystems.com. The public business phone number is 612-504-0088. An assistant must not submit a form, send an email, or place a call without the user's explicit instruction.
+The public support-request form and support email action are disabled during launch preparations. https://zephyresystems.com/support will announce when new requests are open. An assistant must not submit a form, send an email, or place a call without the user's explicit instruction.
 
 ## Public service health
 

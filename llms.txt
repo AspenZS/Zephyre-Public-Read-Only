@@ -1,13 +1,15 @@
 # Zephyre Systems
 
-> Independent IT support for home users and small businesses in the Minneapolis-Saint Paul, Minnesota area.
+> Preparing to launch independent IT support for home users and small businesses in the Minneapolis-Saint Paul, Minnesota area.
+
+Zephyre Systems is not yet accepting new support requests. The service catalog and pricing are public previews while launch preparations are completed.
 
 This file lists the public Zephyre Systems pages intended for search engines and real-time AI assistants. Customer tickets, administrative interfaces, private infrastructure, and authenticated services are not public resources.
 
 ## Company and support information
 
 - [Zephyre Systems homepage](https://zephyresystems.com/): Services, pricing, service area, contact information, and support process.
-- [Request support](https://zephyresystems.com/support): Public support-request form. Do not submit this form without the user's explicit instruction.
+- [Support requests](https://zephyresystems.com/support): Pre-launch notice. The request form and support email action are currently disabled.
 - [Public status directory](https://zephyresystems.com/status): Human-readable links to Zephyre's published status pages.
 
 ## Live public status
