@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T05:34:11.232Z",
+  "generatedAt": "2026-10-17T10:38:24.211Z",
   "scope": "Data already published on Zephyre Systems public Uptime Kuma status pages.",
   "pages": [
     {
@@ -19,20 +19,20 @@
               "name": "Zephyre Systems - homepage",
               "type": "http",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:32.655",
+              "checkedAt": "2026-10-17 10:37:32.756",
               "message": null,
-              "pingMs": 108,
-              "uptime24h": 0.9979166666666667
+              "pingMs": 133,
+              "uptime24h": 1
             },
             {
               "id": 10,
               "name": "Zephyre Support - public portal",
               "type": "http",
               "status": "up",
-              "checkedAt": "2026-10-17 05:34:03.800",
+              "checkedAt": "2026-10-17 10:38:03.911",
               "message": null,
-              "pingMs": 109,
-              "uptime24h": 0.9965301873698821
+              "pingMs": 166,
+              "uptime24h": 1
             }
           ]
         }
@@ -55,9 +55,9 @@
               "name": "Lust Dashboard - React public health",
               "type": "http",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:31.411",
+              "checkedAt": "2026-10-17 10:37:31.505",
               "message": null,
-              "pingMs": 136,
+              "pingMs": 134,
               "uptime24h": 1
             },
             {
@@ -65,19 +65,19 @@
               "name": "Lush Labyrinth - public",
               "type": "http",
               "status": "up",
-              "checkedAt": "2026-10-17 05:34:01.703",
+              "checkedAt": "2026-10-17 10:38:01.815",
               "message": null,
-              "pingMs": 147,
-              "uptime24h": 0.9984520123839009
+              "pingMs": 145,
+              "uptime24h": 0.9989350372736954
             },
             {
               "id": 23,
               "name": "Lush/Lust VPS - Tailscale reachability",
               "type": "ping",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:42.781",
+              "checkedAt": "2026-10-17 10:37:42.894",
               "message": null,
-              "pingMs": 31.5,
+              "pingMs": 32.7,
               "uptime24h": 1
             },
             {
@@ -85,7 +85,7 @@
               "name": "VM 112 basilisk-bot - expected running",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:34:04.926",
+              "checkedAt": "2026-10-17 10:38:20.045",
               "message": null,
               "pingMs": null,
               "uptime24h": 1
@@ -95,7 +95,7 @@
               "name": "Basilisk - application + Discord bot health",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:34:02.212",
+              "checkedAt": "2026-10-17 10:38:21.500",
               "message": null,
               "pingMs": null,
               "uptime24h": 1
@@ -105,170 +105,170 @@
               "name": "Lust React API - local health",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:42.365",
+              "checkedAt": "2026-10-17 10:38:06.352",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9770491803278688
+              "uptime24h": 1
             },
             {
               "id": 51,
               "name": "Lust React Client - local health",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:42.566",
+              "checkedAt": "2026-10-17 10:38:06.467",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9770679770679771
+              "uptime24h": 1
             },
             {
               "id": 52,
               "name": "Baby Lush Website - local health",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:42.714",
+              "checkedAt": "2026-10-17 10:38:06.595",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9770303527481542
+              "uptime24h": 1
             },
             {
               "id": 53,
               "name": "Lush Labyrinth API - local health",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:42.911",
+              "checkedAt": "2026-10-17 10:38:06.723",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9771241830065359
+              "uptime24h": 1
             },
             {
               "id": 54,
               "name": "Lush Event Ops API - local health",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:43.113",
+              "checkedAt": "2026-10-17 10:38:06.854",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9770679770679771
+              "uptime24h": 1
             },
             {
               "id": 55,
               "name": "Lush Event Ops Web - local health",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:43.246",
+              "checkedAt": "2026-10-17 10:38:06.988",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9770867430441899
+              "uptime24h": 1
             },
             {
               "id": 56,
               "name": "LustBot - Discord service",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:43.459",
+              "checkedAt": "2026-10-17 10:38:07.152",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9770867430441899
+              "uptime24h": 1
             },
             {
               "id": 57,
               "name": "Lust ID - Discord service",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:43.684",
+              "checkedAt": "2026-10-17 10:38:07.323",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9770679770679771
+              "uptime24h": 1
             },
             {
               "id": 58,
               "name": "Lush Labyrinth - Discord service",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:43.874",
+              "checkedAt": "2026-10-17 10:38:07.505",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9770679770679771
+              "uptime24h": 1
             },
             {
               "id": 59,
               "name": "Lush Event Ops - Discord service",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:44.052",
+              "checkedAt": "2026-10-17 10:38:07.677",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9771054783319706
+              "uptime24h": 1
             },
             {
               "id": 60,
               "name": "Lush Labyrinth - retention worker",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:44.291",
+              "checkedAt": "2026-10-17 10:38:07.855",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9770679770679771
+              "uptime24h": 1
             },
             {
               "id": 61,
               "name": "Lush Labyrinth - PostgreSQL",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:44.474",
+              "checkedAt": "2026-10-17 10:38:08.022",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9770679770679771
+              "uptime24h": 1
             },
             {
               "id": 62,
               "name": "Lush Labyrinth - Redis",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:44.648",
+              "checkedAt": "2026-10-17 10:38:08.245",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9770303527481542
+              "uptime24h": 1
             },
             {
               "id": 63,
               "name": "Lush Event Ops - PostgreSQL",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:44.882",
+              "checkedAt": "2026-10-17 10:38:08.404",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9770867430441899
+              "uptime24h": 1
             },
             {
               "id": 64,
               "name": "Lust - Cloudflare tunnel",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:45.058",
+              "checkedAt": "2026-10-17 10:38:08.566",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9770679770679771
+              "uptime24h": 1
             },
             {
               "id": 65,
               "name": "Lush - Cloudflare tunnel",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:45.227",
+              "checkedAt": "2026-10-17 10:38:08.730",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9770303527481542
+              "uptime24h": 1
             },
             {
               "id": 66,
               "name": "Baby Lush - Cloudflare tunnel",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:45.480",
+              "checkedAt": "2026-10-17 10:38:09.021",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9771241830065359
+              "uptime24h": 1
             }
           ]
         },
@@ -280,100 +280,100 @@
               "name": "Zephyre Systems - homepage",
               "type": "http",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:32.655",
+              "checkedAt": "2026-10-17 10:37:32.756",
               "message": null,
-              "pingMs": 108,
-              "uptime24h": 0.9979166666666667
+              "pingMs": 133,
+              "uptime24h": 1
             },
             {
               "id": 9,
               "name": "Zephyre Systems - www redirect",
               "type": "http",
               "status": "up",
-              "checkedAt": "2026-10-17 05:34:02.986",
+              "checkedAt": "2026-10-17 10:38:03.064",
               "message": null,
-              "pingMs": 276,
-              "uptime24h": 0.9965301873698821
+              "pingMs": 289,
+              "uptime24h": 1
             },
             {
               "id": 10,
               "name": "Zephyre Support - public portal",
               "type": "http",
               "status": "up",
-              "checkedAt": "2026-10-17 05:34:03.800",
+              "checkedAt": "2026-10-17 10:38:03.911",
               "message": null,
-              "pingMs": 109,
-              "uptime24h": 0.9965301873698821
+              "pingMs": 166,
+              "uptime24h": 1
             },
             {
               "id": 11,
               "name": "Zephyre Mail - Tailscale webmail",
               "type": "http",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:34.636",
+              "checkedAt": "2026-10-17 10:37:34.747",
               "message": null,
-              "pingMs": 252,
-              "uptime24h": 0.9979166666666667
+              "pingMs": 255,
+              "uptime24h": 1
             },
             {
               "id": 12,
               "name": "Zammad - LAN origin",
               "type": "http",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:35.352",
+              "checkedAt": "2026-10-17 10:37:35.439",
               "message": null,
-              "pingMs": 105,
-              "uptime24h": 0.9979166666666667
+              "pingMs": 103,
+              "uptime24h": 1
             },
             {
               "id": 13,
               "name": "ChefZS - LAN web service",
               "type": "http",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:36.473",
+              "checkedAt": "2026-10-17 10:37:36.570",
               "message": null,
-              "pingMs": 193,
-              "uptime24h": 0.9979166666666667
+              "pingMs": 187,
+              "uptime24h": 1
             },
             {
               "id": 31,
               "name": "VM 103 zs-mail-01 - expected running",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:48.812",
+              "checkedAt": "2026-10-17 10:38:03.769",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9989327641408752
+              "uptime24h": 1
             },
             {
               "id": 32,
               "name": "CT 104 ChefZS - expected running",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:34:04.130",
+              "checkedAt": "2026-10-17 10:38:19.206",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9992994746059545
+              "uptime24h": 1
             },
             {
               "id": 33,
               "name": "VM 111 ZS-ZAMMAD - expected running",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:48.022",
+              "checkedAt": "2026-10-17 10:38:03.005",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9992885094272501
+              "uptime24h": 1
             },
             {
               "id": 34,
               "name": "CT 118 Zephyre Discord monitor - expected running",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:34:05.230",
+              "checkedAt": "2026-10-17 10:38:05.155",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9989274222381123
+              "uptime24h": 1
             }
           ]
         },
@@ -385,209 +385,209 @@
               "name": "Immich API",
               "type": "http",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:37.011",
+              "checkedAt": "2026-10-17 10:37:37.110",
               "message": null,
-              "pingMs": 87,
-              "uptime24h": 0.9979166666666667
+              "pingMs": 84,
+              "uptime24h": 1
             },
             {
               "id": 15,
               "name": "Arcane Manager - LAN",
               "type": "http",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:37.899",
+              "checkedAt": "2026-10-17 10:37:38.003",
               "message": null,
-              "pingMs": 98,
-              "uptime24h": 0.9979166666666667
+              "pingMs": 106,
+              "uptime24h": 1
             },
             {
               "id": 16,
               "name": "Proxmox Datacenter Manager - API",
               "type": "http",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:38.194",
+              "checkedAt": "2026-10-17 10:37:38.295",
               "message": null,
-              "pingMs": 3150,
-              "uptime24h": 0.9979166666666667
+              "pingMs": 3147,
+              "uptime24h": 1
             },
             {
               "id": 17,
               "name": "MeshCentral - LAN",
               "type": "http",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:38.518",
+              "checkedAt": "2026-10-17 10:37:38.610",
               "message": null,
-              "pingMs": 249,
-              "uptime24h": 0.9979166666666667
+              "pingMs": 257,
+              "uptime24h": 1
             },
             {
               "id": 18,
               "name": "proxmox1 - Proxmox API",
               "type": "http",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:38.955",
+              "checkedAt": "2026-10-17 10:37:39.062",
               "message": null,
-              "pingMs": 3148,
-              "uptime24h": 0.9979166666666667
+              "pingMs": 3134,
+              "uptime24h": 1
             },
             {
               "id": 19,
               "name": "proxmox2 - Proxmox API",
               "type": "http",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:39.643",
+              "checkedAt": "2026-10-17 10:37:39.751",
               "message": null,
-              "pingMs": 3141,
-              "uptime24h": 0.9979166666666667
+              "pingMs": 3151,
+              "uptime24h": 1
             },
             {
               "id": 20,
               "name": "proxmox3 - Proxmox API",
               "type": "http",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:40.280",
+              "checkedAt": "2026-10-17 10:37:40.385",
               "message": null,
-              "pingMs": 3136,
-              "uptime24h": 0.9979166666666667
+              "pingMs": 3144,
+              "uptime24h": 1
             },
             {
               "id": 21,
               "name": "proxmox4 - Proxmox API",
               "type": "http",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:41.243",
+              "checkedAt": "2026-10-17 10:37:41.358",
               "message": null,
-              "pingMs": 3145,
-              "uptime24h": 0.9979166666666667
+              "pingMs": 3140,
+              "uptime24h": 1
             },
             {
               "id": 22,
               "name": "ZS-MeshBox - Proxmox API",
               "type": "http",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:11.981",
+              "checkedAt": "2026-10-17 10:38:12.086",
               "message": null,
-              "pingMs": 3153,
-              "uptime24h": 0.9979166666666667
+              "pingMs": 3176,
+              "uptime24h": 1
             },
             {
               "id": 24,
               "name": "proxmox1 - node state",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:49.563",
+              "checkedAt": "2026-10-17 10:38:17.700",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9992935358530555
+              "uptime24h": 1
             },
             {
               "id": 25,
               "name": "proxmox2 - node state",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:34:03.307",
+              "checkedAt": "2026-10-17 10:38:18.347",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9992994746059545
+              "uptime24h": 1
             },
             {
               "id": 26,
               "name": "proxmox3 - node state",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:46.435",
+              "checkedAt": "2026-10-17 10:38:01.801",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9992864787727435
+              "uptime24h": 1
             },
             {
               "id": 27,
               "name": "proxmox4 - node state",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:47.221",
+              "checkedAt": "2026-10-17 10:38:02.221",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9992885094272501
+              "uptime24h": 1
             },
             {
               "id": 28,
               "name": "ZS-MeshBox - node state",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:34:02.821",
+              "checkedAt": "2026-10-17 10:38:02.759",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9989274222381123
+              "uptime24h": 1
             },
             {
               "id": 35,
               "name": "CT 100 Uptime Kuma - expected running",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:47.565",
+              "checkedAt": "2026-10-17 10:38:02.958",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9992864787727435
+              "uptime24h": 1
             },
             {
               "id": 36,
               "name": "VM 102 Arcane Manager - expected running",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:48.813",
+              "checkedAt": "2026-10-17 10:38:04.176",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9992867332382311
+              "uptime24h": 1
             },
             {
               "id": 38,
               "name": "VM 114 Immich Main - expected running",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:34:05.733",
+              "checkedAt": "2026-10-17 10:38:20.839",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9992997198879552
+              "uptime24h": 1
             },
             {
               "id": 39,
               "name": "VM 117 ZS-PDM - expected running",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:50.929",
+              "checkedAt": "2026-10-17 10:38:19.067",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9992935358530555
+              "uptime24h": 1
             },
             {
               "id": 40,
               "name": "CT 113 MeshCentral - expected running",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:34:04.009",
+              "checkedAt": "2026-10-17 10:38:03.955",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9992846924177397
+              "uptime24h": 1
             },
             {
               "id": 67,
               "name": "Home WAN - LAN gateway",
               "type": "ping",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:50.974",
+              "checkedAt": "2026-10-17 10:38:21.203",
               "message": null,
               "pingMs": 46.2,
-              "uptime24h": 0.9979166666666667
+              "uptime24h": 1
             },
             {
               "id": 68,
               "name": "Home WAN - Cloudflare ICMP",
               "type": "ping",
               "status": "up",
-              "checkedAt": "2026-10-17 05:34:06.631",
+              "checkedAt": "2026-10-17 10:38:06.820",
               "message": null,
-              "pingMs": 1.42,
+              "pingMs": 1.22,
               "uptime24h": 1
             },
             {
@@ -595,9 +595,9 @@
               "name": "Home WAN - Google ICMP",
               "type": "ping",
               "status": "up",
-              "checkedAt": "2026-10-17 05:34:07.316",
+              "checkedAt": "2026-10-17 10:38:07.513",
               "message": null,
-              "pingMs": 0.656,
+              "pingMs": 0.633,
               "uptime24h": 1
             }
           ]
@@ -610,10 +610,10 @@
               "name": "VM 107 Amp-Service - on-demand / optional",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:50.249",
+              "checkedAt": "2026-10-17 10:38:18.373",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9992937853107344
+              "uptime24h": 1
             }
           ]
         }
@@ -636,9 +636,9 @@
               "name": "Lust Dashboard - React public health",
               "type": "http",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:31.411",
+              "checkedAt": "2026-10-17 10:37:31.505",
               "message": null,
-              "pingMs": 136,
+              "pingMs": 134,
               "uptime24h": 1
             },
             {
@@ -646,60 +646,60 @@
               "name": "Lust React API - local health",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:42.365",
+              "checkedAt": "2026-10-17 10:38:06.352",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9770491803278688
+              "uptime24h": 1
             },
             {
               "id": 51,
               "name": "Lust React Client - local health",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:42.566",
+              "checkedAt": "2026-10-17 10:38:06.467",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9770679770679771
+              "uptime24h": 1
             },
             {
               "id": 56,
               "name": "LustBot - Discord service",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:43.459",
+              "checkedAt": "2026-10-17 10:38:07.152",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9770867430441899
+              "uptime24h": 1
             },
             {
               "id": 57,
               "name": "Lust ID - Discord service",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:43.684",
+              "checkedAt": "2026-10-17 10:38:07.323",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9770679770679771
+              "uptime24h": 1
             },
             {
               "id": 64,
               "name": "Lust - Cloudflare tunnel",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:45.058",
+              "checkedAt": "2026-10-17 10:38:08.566",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9770679770679771
+              "uptime24h": 1
             },
             {
               "id": 70,
               "name": "Laced off-host backup freshness",
               "type": "push",
               "status": "down",
-              "checkedAt": "2026-10-17 05:33:18.424",
+              "checkedAt": "2026-10-17 10:38:18.740",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.03201219512195122
+              "uptime24h": 0
             }
           ]
         },
@@ -711,140 +711,140 @@
               "name": "Lush off-host backup freshness",
               "type": "push",
               "status": "down",
-              "checkedAt": "2026-10-17 05:33:18.423",
+              "checkedAt": "2026-10-17 10:38:18.739",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.03201219512195122
+              "uptime24h": 0
             },
             {
               "id": 7,
               "name": "Lush Labyrinth - public",
               "type": "http",
               "status": "up",
-              "checkedAt": "2026-10-17 05:34:01.703",
+              "checkedAt": "2026-10-17 10:38:01.815",
               "message": null,
-              "pingMs": 147,
-              "uptime24h": 0.9984520123839009
+              "pingMs": 145,
+              "uptime24h": 0.9989350372736954
             },
             {
               "id": 52,
               "name": "Baby Lush Website - local health",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:42.714",
+              "checkedAt": "2026-10-17 10:38:06.595",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9770303527481542
+              "uptime24h": 1
             },
             {
               "id": 53,
               "name": "Lush Labyrinth API - local health",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:42.911",
+              "checkedAt": "2026-10-17 10:38:06.723",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9771241830065359
+              "uptime24h": 1
             },
             {
               "id": 54,
               "name": "Lush Event Ops API - local health",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:43.113",
+              "checkedAt": "2026-10-17 10:38:06.854",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9770679770679771
+              "uptime24h": 1
             },
             {
               "id": 55,
               "name": "Lush Event Ops Web - local health",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:43.246",
+              "checkedAt": "2026-10-17 10:38:06.988",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9770867430441899
+              "uptime24h": 1
             },
             {
               "id": 58,
               "name": "Lush Labyrinth - Discord service",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:43.874",
+              "checkedAt": "2026-10-17 10:38:07.505",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9770679770679771
+              "uptime24h": 1
             },
             {
               "id": 59,
               "name": "Lush Event Ops - Discord service",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:44.052",
+              "checkedAt": "2026-10-17 10:38:07.677",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9771054783319706
+              "uptime24h": 1
             },
             {
               "id": 60,
               "name": "Lush Labyrinth - retention worker",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:44.291",
+              "checkedAt": "2026-10-17 10:38:07.855",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9770679770679771
+              "uptime24h": 1
             },
             {
               "id": 61,
               "name": "Lush Labyrinth - PostgreSQL",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:44.474",
+              "checkedAt": "2026-10-17 10:38:08.022",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9770679770679771
+              "uptime24h": 1
             },
             {
               "id": 62,
               "name": "Lush Labyrinth - Redis",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:44.648",
+              "checkedAt": "2026-10-17 10:38:08.245",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9770303527481542
+              "uptime24h": 1
             },
             {
               "id": 63,
               "name": "Lush Event Ops - PostgreSQL",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:44.882",
+              "checkedAt": "2026-10-17 10:38:08.404",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9770867430441899
+              "uptime24h": 1
             },
             {
               "id": 65,
               "name": "Lush - Cloudflare tunnel",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:45.227",
+              "checkedAt": "2026-10-17 10:38:08.730",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9770303527481542
+              "uptime24h": 1
             },
             {
               "id": 66,
               "name": "Baby Lush - Cloudflare tunnel",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:45.480",
+              "checkedAt": "2026-10-17 10:38:09.021",
               "message": null,
               "pingMs": null,
-              "uptime24h": 0.9771241830065359
+              "uptime24h": 1
             }
           ]
         },
@@ -856,9 +856,9 @@
               "name": "Lush/Lust VPS - Tailscale reachability",
               "type": "ping",
               "status": "up",
-              "checkedAt": "2026-10-17 05:33:42.781",
+              "checkedAt": "2026-10-17 10:37:42.894",
               "message": null,
-              "pingMs": 31.5,
+              "pingMs": 32.7,
               "uptime24h": 1
             },
             {
@@ -866,7 +866,7 @@
               "name": "VM 112 basilisk-bot - expected running",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:34:04.926",
+              "checkedAt": "2026-10-17 10:38:20.045",
               "message": null,
               "pingMs": null,
               "uptime24h": 1
@@ -876,7 +876,7 @@
               "name": "Basilisk - application + Discord bot health",
               "type": "push",
               "status": "up",
-              "checkedAt": "2026-10-17 05:34:02.212",
+              "checkedAt": "2026-10-17 10:38:21.500",
               "message": null,
               "pingMs": null,
               "uptime24h": 1
