@@ -1,6 +1,6 @@
 # Zephyre Systems
 
-Zephyre Systems is preparing to launch independent remote and on-site IT support for home users and small businesses across the Minneapolis-Saint Paul, Minnesota area. It is not yet accepting new support requests.
+Zephyre Systems is an independent IT support business operated by Aspen. It provides remote-first support for home users and small businesses, with on-site help available by arrangement across the Minneapolis-Saint Paul, Minnesota area.
 
 ## Services
 
@@ -10,22 +10,24 @@ Zephyre Systems is preparing to launch independent remote and on-site IT support
 - Home and small-business network, Wi-Fi, and connectivity support.
 - Microsoft 365, email, and account assistance.
 - Server, NAS, shared-file, storage, and backup support.
-- Remote support, on-site support, and small-business IT consulting.
+- Remote-first support, on-site help by arrangement, and small-business IT consulting.
 
 ## Pricing
 
 - Standard IT support: $125 per hour.
 - Rush or priority support: $175 per hour total, subject to scheduling availability.
-- Remote support has a 30-minute minimum.
+- Standard remote support has a $62.50 minimum for the first 30 minutes.
 - On-site support has a 1-hour minimum.
 - After the minimum, work is billed in 15-minute increments.
 - Hardware, software, licenses, and purchased materials are separate. Larger projects are estimated before work begins.
 
 ## Support process
 
-The customer contacts Zephyre, describes the issue and prior troubleshooting, receives an estimate, approves the work, receives remote or on-site support, and receives an itemized invoice. Work does not move forward until the customer accepts the plan.
+The customer submits the public request form without needing an account, describes the issue and prior troubleshooting, receives a ticket confirmation, receives and approves the scope and pricing, receives remote or on-site support, and receives an itemized invoice. Work does not move forward until the customer accepts the plan.
 
-The public support-request form and support email action are disabled during launch preparations. https://zephyresystems.com/support will announce when new requests are open. An assistant must not submit a form, send an email, or place a call without the user's explicit instruction.
+Submitting a ticket does not authorize access to a customer's device. Remote support through HopToDesk requires separate, explicit permission from the customer. The customer chooses when to begin the session and may end it at any time. An assistant must not submit a form, send an email, place a call, or begin a remote session without the user's explicit instruction.
+
+Service, payment, privacy, and remote-consent expectations are published at https://zephyresystems.com/service-terms.
 
 ## Public service health
 
