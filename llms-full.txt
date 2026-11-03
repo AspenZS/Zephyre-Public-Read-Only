@@ -14,11 +14,12 @@ Zephyre Systems is an independent IT support business operated by Aspen. It prov
 
 ## Pricing
 
-- Standard IT support: $125 per hour.
+- Standard IT support after the first hour: $125 per hour.
 - Rush or priority support: $175 per hour total, subject to scheduling availability.
-- Standard remote support has a $62.50 minimum for the first 30 minutes.
+- Standard remote support is $62.50 for up to 30 minutes.
+- First-time customer introductory offer: standard remote support that continues past 30 minutes is $80 total for the full first hour.
+- Additional standard time after the first hour is billed at $125 per hour in 15-minute increments and continues only with customer approval.
 - On-site support has a 1-hour minimum.
-- After the minimum, work is billed in 15-minute increments.
 - Hardware, software, licenses, and purchased materials are separate. Larger projects are estimated before work begins.
 
 ## Support process
